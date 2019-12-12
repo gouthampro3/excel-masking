@@ -1,5 +1,4 @@
 #!/home/lone/Documents/job_se/excel-masking/reqlibs/bin/python
-#!/home/lone/Documents/job_se/excel-masking/reqlibs/bin/python
 import sys
 import string
 from io import StringIO
